@@ -1,0 +1,7 @@
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe.config
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.pdb
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.csprojResolveAssemblyReference.cache
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.exe
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.pdb
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.csproj.CoreCompileInputs.cache

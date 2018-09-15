@@ -1,0 +1,9 @@
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplicationTest.dll
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplicationTest.pdb
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplication.exe
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplication.pdb
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.csprojResolveAssemblyReference.cache
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.dll
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.pdb
